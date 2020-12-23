@@ -1,1 +1,1 @@
-# Classification-of-genes
+# Classification of genes
